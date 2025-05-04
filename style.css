@@ -1,0 +1,78 @@
+/* Estilos básicos */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #222;
+}
+
+header .logo-circular {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.bienvenida {
+    text-align: center;
+    margin: 20px;
+}
+
+.bienvenida h1 {
+    font-size: 2.5em;
+    color: #e63946;
+}
+
+.bienvenida p {
+    font-size: 1.2em;
+    margin: 10px 20px;
+}
+
+.galeria {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.galeria .imagen-local {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.instagram {
+    text-align: center;
+    margin: 20px;
+}
+
+.instagram h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.instagram .btn-instagram {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    color: #fff;
+    background-color: #e63946;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer img {
+    max-width: 200px;
+    margin-bottom: 10px;
+}
